@@ -1,6 +1,6 @@
 # ETL Testing Interview Question
 
-[Back to root README](../../../../../../README.md)
+[copied from Rubikloud screening test](https://github.com/grahamcrowell/rubikloud)
 
 Explain your thoughts on how you would ensure that ETL Pipelines are tested in an automated fashion, please identify all the steps/prerequisites required along with the assumptions you make. Recommend tools / procedures, assume we do all testing manually. How do we get a to a number which shows our test coverage is measurable and improving over time.
 
